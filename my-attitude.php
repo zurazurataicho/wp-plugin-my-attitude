@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: my-attitude
-Plugin URI: https://github.com/zurazurataicho/wp-plugin-my-attitude
+Plugin URI: https://raw.githubusercontent.com/zurazurataicho/wp-plugin-my-attitude/main/my-attitude.php
 Description: My Attitude Theme Customization For WordPress.
 Version: 1.0.0
 Author: EZURA, Atsushi
